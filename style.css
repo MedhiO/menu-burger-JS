@@ -1,0 +1,138 @@
+.menuHeaderForme
+{
+    padding: 10px;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10px;
+    display: flex
+}
+
+.logoHeaderForme
+{
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 10px;
+    display: inline-flex
+}
+
+.logoHeaderTexte
+{
+    text-align: center;
+    color: white;
+    font-size: 32px;
+    font-family: Inter;
+    font-weight: 500;
+    word-wrap: break-word
+}
+
+.accueilHeaderForme
+{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    display: inline-flex
+}
+
+.accueilHeaderTexte
+{
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word
+}
+
+.servicesHeaderForme
+{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    display: inline-flex
+}
+
+.servicesHeaderTexte
+{
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word
+}
+
+.portfolioHeaderForme
+{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    display: inline-flex
+}
+
+.portfolioHeaderTexte
+{
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word
+}
+
+.loisirsHeaderForme
+{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    display: inline-flex
+}
+
+.loisirsHeaderTexte
+{
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word
+}
+
+.contactHeaderForme
+{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background: #25755D;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    display: inline-flex
+}
+
+.contactHeaderTexte
+{
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word
+}
